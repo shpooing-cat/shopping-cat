@@ -1,10 +1,17 @@
-[200~ .ide
-        .ppp
-        meehan.py
-    .ide
-        .ppp
-        meehan.py
-        meenapl
-        meta
-     meenapl
-        meta:wq!
+ide
+.ppp
+mehan.py
+.ide
+.ppp
+meehan.py
+meenapl
+meta
+meenapl
+meta:wq!
+new file:   .gitignore
+new file:   .ide
+new file:   .ppp
+new file:   meehan.py
+new file:   meenapl
+new file:   metaWA
+www.sh
