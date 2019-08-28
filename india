@@ -7,6 +7,7 @@
 <test> jjjjjiiiii </test>
 </TESTER1>
 <<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< Updated upstream
 <tLest> India </Test>
 <K>
@@ -16,6 +17,9 @@
 <rrrrrrrrrrrrrrr>
 <test> India </Test>
 >>>>>>> Stashed changes
+=======
+<test> India </Test>
+>>>>>>> parent of 716a644... Update india
 =======
 <test> India </Test>
 >>>>>>> parent of 716a644... Update india
